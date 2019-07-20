@@ -25,8 +25,8 @@ More information
 -------------------------------------------------
 Ganbox AdSense plugin version 1.0 for Question2Answer (http://www.question2answer.org)  
 Tested on Question2Answer versions: 1.8.3,  1.8.1  and  1.6.3 (minimum version: 1.5 required)  
-Author: Georgi Stefanov  
-Author website: [Ganbox SEO Services] (https://ganbox.com/about)  
+Author: [Georgi Stefanov](https://ganbox.com/about)  
+Author website: [Ganbox SEO Services](https://ganbox.com)    
 Start Date: 2014-08-15  
 Last Update: 2019-07-21  
 Plugin License: GPLv2  
